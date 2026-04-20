@@ -1,66 +1,75 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Hello" width="60%"/> <br>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Workspace" width="40%"/><br> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
 
-<h1>Hi 👋, I'm Amine HAFID</h1>
-<h3>💻 Software Developer | 🎮 Game Developer | 🎥 YouTuber</h3>
+# 👋 Hi, I'm Amine HAFID
 
-![Profile Views](https://komarev.com/ghpvc/?username=AmineHAFID&style=flat&color=orange)
+### 💻 Software Developer | 🎮 Game Developer | 🤖 AI Enthusiast | 🎥 YouTuber
 
-<a href="https://youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-Amine%20HAFID-red?style=flat&logo=youtube"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=AmineHAFID&style=flat&color=orange" />
 
-<a href="https://t.me/">
-<img src="https://img.shields.io/badge/Telegram-Amine-blue?style=flat&logo=telegram"/>
+<a href="https://www.linkedin.com/in/amine-hafid-72149637a/">
+<img src="https://img.shields.io/badge/LinkedIn-Amine%20HAFID-blue?style=flat&logo=linkedin"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🎮 Game Developer (Unity / Godot / Custom Engines)
-- 💻 Software Developer (Apps, Tools, Automation)
-- 🎥 Content Creator on YouTube
-- 🧠 Always learning new technologies
-- ⚡ I love building crazy ideas into real projects
+<img align="right" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250"/>
+
+- 🔍 I love **exploring, learning, and experimenting**
+- 🎮 Building games using **Unity & Godot**
+- 💻 Developing software, tools, and creative ideas
+- 🤖 Interested in **AI & future technologies**
+- 🎥 Creating content and sharing knowledge
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=yellow)
+### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### 🧠 AI & Data
+![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
+
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
 
 ---
 
-## 🧰 Tools I Use
+## ⚙️ Tools & Environment
 
-- 💻 VS Code / Neovim  
-- 🐧 Linux / Windows  
-- 🎨 Figma / Photoshop / GIMP  
-- 🔥 Firebase / SQLite  
-- 🧪 Git & GitHub  
+<img src="https://skillicons.dev/icons?i=vscode,neovim,linux,windows,git,github,figma,photoshop,gimp,firebase" />
 
 ---
 
-## 👨‍💻 Code Style
+## 👨‍💻 Coding Mindset
 
-```dart
-class AmineHafid extends Developer {
-  final skills = {
-    "Languages": ["Dart", "C++", "Python", "JavaScript"],
-    "GameDev": ["Unity", "Godot"],
-    "Tools": ["Git", "Figma", "Firebase"],
-    "Platforms": ["Windows", "Linux"]
-  };
+```csharp
+class AmineHafid {
+    string mindset = "Explore. Learn. Experiment.";
 
-  void build() => print("Turning ideas into reality 🚀");
+    void Build() {
+        while(true) {
+            Learn();
+            Create();
+            Improve();
+        }
+    }
 }
